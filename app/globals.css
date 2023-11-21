@@ -34,4 +34,10 @@
     @apply text-xs;
   }
 
+  @layer components{
+    .botonEliminar{
+      @apply bg-red-500 text-white font-bold;
+    }
+  }
+
 
